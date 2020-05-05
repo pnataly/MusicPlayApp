@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Play</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Song Name</string>
+    <string name="favorites">Favorites</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete">Delete</string>
+    <string name="delete_text"> Are you sure you want to delete</string>
+    <string name="player">Player</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
